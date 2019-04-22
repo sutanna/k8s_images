@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/coredns:1.3.1
-MAINTANIER qingjie2012@foxmail.com
+MAINTAINER qingjie2012@foxmail.com

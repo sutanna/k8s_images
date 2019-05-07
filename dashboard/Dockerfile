@@ -1,2 +1,2 @@
-From k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
-MAINTAINER zhaojiedi1992@outlook.com
+From k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+MAINTAINER qingjie2012@fox
